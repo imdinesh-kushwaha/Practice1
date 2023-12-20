@@ -1,0 +1,10 @@
+.container{
+    background: pink;
+    height: 400px;
+    width: 400px;
+    border-radius: 50%;
+    filter: blur(120px);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
